@@ -3,7 +3,7 @@ My name is Johnbosco Muiruri, I am currently a computer science student at the U
 
 ⚡ Work experience:
 
-Incoming Data Science Intern @ CVS | Summer 2024
+    Incoming Data Science Intern @ CVS | Summer 2024
 
 🌱 Interests:
 <!--
