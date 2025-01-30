@@ -3,7 +3,9 @@ My name is Johnbosco Muiruri, I am currently a computer science student at the U
 
 ⚡ Work experience:
 
-    Data Science Intern @ CVS Health | Summer 2024
+    System Test Engineer @ NASA | Fall 2024 & Spring 2025
+    
+    EX Data Science Intern @ CVS Health | Summer 2024
 
 🌱 Interests:
 <!--
